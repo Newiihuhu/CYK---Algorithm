@@ -1,0 +1,10 @@
+S -> CB
+A -> DE
+B -> FG | FH
+C -> HI
+D -> HH
+E -> BI
+F -> II
+G -> AH
+H -> a
+I -> b
